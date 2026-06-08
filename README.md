@@ -17,7 +17,7 @@ O **DietPi Server Builder** é um utilitário para Windows que grava e pré-conf
 ## 📥 Como Baixar e Usar (Para Usuários)
 
 ### 1. Preparação
-1. Acesse a aba [Releases](../../releases) deste repositório e baixe o arquivo `DietPi_Server_Builder.exe`.
+1. Acesse a aba [Releases](../../releases) deste repositório e baixe o arquivo `salvapcs-setup.exe `.
 2. Baixe a imagem base do DietPi (**Native PC - BIOS/CSM**) no [site oficial](https://dietpi.com/#download). Extraia o arquivo até obter a imagem `.img` bruta.
 3. Tenha em mãos um Pendrive de pelo menos 4GB (⚠️ **Atenção:** Todos os dados dele serão apagados!).
 
