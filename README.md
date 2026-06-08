@@ -18,11 +18,11 @@ O **DietPi Server Builder** é um utilitário para Windows que grava e pré-conf
 
 ### 1. Preparação
 1. Acesse a aba [Releases](../../releases) deste repositório e baixe o arquivo `salvapcs-setup.exe `.
-2. Baixe a imagem base do DietPi (**Native PC - BIOS/CSM**) no [site oficial](https://dietpi.com/#download). Extraia o arquivo até obter a imagem `.img` bruta.
+2. Baixe a imagem base do DietPi (**Native PC - BIOS/CSM**) no [site oficial](https://dietpi.com/#download). Extraia o arquivo até obter a imagem `.img` bruta _(opcional)_.
 3. Tenha em mãos um Pendrive de pelo menos 4GB (⚠️ **Atenção:** Todos os dados dele serão apagados!).
 
 ### 2. Criando o Pendrive Autônomo
-1. Execute o `DietPi_Server_Builder.exe` (ele pedirá permissão de Administrador para gravar no pendrive).
+1. Execute o `salvapcs-setup.exe ` (ele pedirá permissão de Administrador para gravar no pendrive).
 2. Na interface gráfica:
    * Selecione o arquivo `.img` do DietPi.
    * Selecione o seu pendrive na lista.
