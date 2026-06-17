@@ -1,0 +1,2 @@
+PARABÉNS! SEU PENDRIVE DE SERVIDOR ESTÁ PRONTO.
+(Veja o arquivo .bat para achar o servidor)
